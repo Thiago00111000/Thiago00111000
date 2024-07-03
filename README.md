@@ -2,7 +2,7 @@
 - 👀 I’m interested in automation and electric things, but also in general science.
 - 🌱 I’m currently learning spanish, and some undefined things (basically everything a bit interesting)
 - 💞️ I’m looking to collaborate on Roko's basilisk
-- 📫 How to reach me: my Email
+- 📫 How to reach me: my Email is thiago.batista.santos@escola.pr.gov.br
 - ⚡ Fun fact: I like coffee ¯\_(ツ)_/¯
 
 <!---
